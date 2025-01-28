@@ -118,7 +118,6 @@ function condicionesIniciales(){
         asignarTextoElemento('h1','Juego del número secreto');
         asignarTextoElemento('p',`Indica un número del 1 al ${máximoValor}`);
         numeroSecreto = generarNumeroSecreto();
-        console.log(numeroSecreto);
     }
 
 }
