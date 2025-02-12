@@ -1,0 +1,3 @@
+<h1>Información del Juego</h1>
+
+- Contenido en producción...
